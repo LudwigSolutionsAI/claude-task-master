@@ -1,4 +1,4 @@
-# Available Models as of January 15, 2026
+# Available Models as of August 6, 2026
 
 ## Main Models
 
